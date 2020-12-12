@@ -1,0 +1,28 @@
+{
+  "name": "burger-restaurant-app",
+  "version": "1.0.0",
+  "description": "a \"burger logger\" made using MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-lax/burger-restaurant-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-lax/burger-restaurant-app/issues"
+  },
+  "homepage": "https://github.com/v-lax/burger-restaurant-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  }
+}
